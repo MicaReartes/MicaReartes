@@ -5,19 +5,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF1493&size=30&lines=Hey!+I'm+Mica+💜;)](https://git.io/typing-svg)
 </div>
 
-
-
-<!--
-**MicaReartes/MicaReartes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3><i>Un poco de mi:</i></h3>
+<ul> <!-- listas desordenadas -->
+            <li>🔬Bromatologa</li> 
+            <li>🔥Bombera en proceso</li>
+            <li>💻Estudiante Tecnicatura en Programacion</li>
+            <li>💪Full Stack Python - Codo a Codo</li>
+            <li>📍 San Rafael - Mendoza - Argentina</li>
+            <li>♏Escorpiana</li>
+            
+            
+</ul>
