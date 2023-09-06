@@ -1,7 +1,9 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF1493&size=30&lines=Hey!+I'm+Mica,+Future+Developer...;)](https://git.io/typing-svg)
+<p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF1493&size=30&lines=Hey!+I'm+Mica)](https://git.io/typing-svg)
+</p>
 <!--
 **MicaReartes/MicaReartes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
