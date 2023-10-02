@@ -35,6 +35,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MicaReartes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=MicaReartes&icon=5&color=0)](https://visitcount.itsvg.in)
 
